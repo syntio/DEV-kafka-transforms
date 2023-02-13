@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.github.cjmatta.kafka.connect.smt;
+package com.github.syntio.kafka.connect.smt;
 
 import org.apache.kafka.common.cache.Cache;
 import org.apache.kafka.common.cache.LRUCache;
